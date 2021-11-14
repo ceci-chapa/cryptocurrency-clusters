@@ -1,1 +1,1 @@
-# cryptocurrency-clusters
+# Cryptocurrency Clusters
